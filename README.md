@@ -13,10 +13,10 @@
 - **OS**: ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black), ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white), ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
 
+<!--
 ### 📈 **GitHub Stats**:
 [![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrymanke&hide=stars&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
 ### 📫 **Connect with Me**:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/henrymanke)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:henry@example.com)
