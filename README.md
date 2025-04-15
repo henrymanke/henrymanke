@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Henry!
 
-![Hacker GIF](https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif)
-
 ### 🚀 **About Me**:
 - 🌐 Remote developer with a passion for clean, efficient code.
 - 💼 Experienced in backend development (Django) and frontend design (Vue.js).
